@@ -1,4 +1,3 @@
-[9:47 AM] Amith
 #write a python code for simple calculator
 def add(x,y):
   return x+y
